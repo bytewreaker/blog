@@ -1,39 +1,54 @@
-title: "Bytewreaker"
-tagline: "Bug Bounty & CTF Writeups"
-description: "Writeups on hacking challenges, CTFs, and bug bounty adventures."
-
+# Site settings
+title: ByteWreaker Blog
+description: "Bug Bounties & CTF Writeups by ByteWreaker"
 url: "https://bytewreaker.github.io"
 baseurl: "/blog"
+logo: "/assets/img/logo.png"
+favicon: "/assets/img/favicon.ico"
+github: "https://github.com/bytewreaker"
 
-lang: en
-timezone: Asia/Kolkata
+# Social media links (only GitHub)
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/bytewreaker"
 
-author:
-  name: "Bytewreaker"
-  bio: "Bug bounty hunter | CTF player | Infosec enthusiast"
+# Feed settings
+feed:
+  path: "atom.xml"
 
-github:
-  username: bytewreaker
-
-comments:
-  provider: false
-
-social:
-  links:
-    - https://github.com/bytewreaker
-
+# Build settings
 theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-paginate
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
+# Pagination settings
 paginate: 5
-paginate_path: /page:num/
+paginate_path: "/page:num/"
+
+# SEO settings
+seo:
+  description: "Writeups on Bug Bounties & CTF Challenges"
+  keywords: "bug bounty, CTF, security, writeups"
+
+# Uncomment if you're using a custom domain
+# url: "https://bytewreaker.tech"
+
+# Additional settings for Chirpy
+categories_dir: "categories"
+tags_dir: "tags"
+archives_dir: "archives"
+
+# Exclude these from being processed
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+# Assets settings
+assets:
+  css:
+    - "/assets/css/style.css"
+  js:
+    - "/assets/js/main.js"
