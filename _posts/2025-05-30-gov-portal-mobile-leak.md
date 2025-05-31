@@ -1,8 +1,8 @@
 ---
 title: "Leaking Mobile Numbers via Base64 on Government Portal"
 date: 2025-05-30 11:00:00 +0530
-categories: [Security, Web]
-tags: [privacy, responsible-disclosure, base64, government]
+categories: [Android,]
+tags: [government, android]
 ---
 
 In a recent audit of a state-level government portal, I found a vulnerability that exposed mobile numbers linked to citizen records through a **public API response**.
