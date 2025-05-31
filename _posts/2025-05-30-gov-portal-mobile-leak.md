@@ -1,7 +1,7 @@
 ---
 title: "Leaking Mobile Numbers via Base64 on Government Portal"
 date: 2025-05-30 11:00:00 +0530
-categories: [Android,]
+categories: [Android]
 tags: [government, android]
 ---
 
