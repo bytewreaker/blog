@@ -54,7 +54,7 @@ The issue was reported to CERT-In. While the risk is mitigated by the need for a
 
 ---
 
-> **Note:** I’m intentionally withholding the website name due to responsible disclosure. The goal is to educate and raise awareness, not to expose.
+ **Note:** I’m intentionally withholding the website name due to responsible disclosure. The goal is to educate and raise awareness, not to expose.
 
 ---
 
