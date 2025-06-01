@@ -45,7 +45,3 @@ The vulnerability was reported through the official CERT-In responsible disclosu
 
 > **Note:** I’m intentionally withholding the app name due to responsible disclosure. The goal is to educate and raise awareness, not to expose.
 
----
-
-Best,  
-**Bytewreaker**
