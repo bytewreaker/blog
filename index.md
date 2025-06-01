@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This blog is part of my bug hunting journey.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+For my full portfolio and projects, please visit [bytewreaker.tech](https://bytewreaker.tech)
